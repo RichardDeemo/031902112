@@ -257,5 +257,6 @@ int main()
     	printf("错误输入，游戏结束。"); //防止错误输入 
 	}
     }
+        system("pause");
 	return 0;
 }
